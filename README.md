@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : SANJAY SIVARAMAKRISHNAN M </h>
-Roll no : 23013798</h>
-Date of experiment : 22.08.2024</h>
+Name : SANJAY SIVARAMAKRISHNAN M <br>
+Roll no : 23013798<br>
+Date of experiment : 22.08.2024<br>
 
 
 
